@@ -1,0 +1,116 @@
+.test{
+margin-top: 20px;
+height: 900px;
+background-image: url('../images/1.png');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+/*Blocks design*/
+.row{
+  height: 500px
+}
+.halfone {
+  background-color: #F8f8f8;
+}
+.halftwo {
+  background-color: #FDEDEA;
+}
+
+.halfthree {
+  background-color: #474747;
+  text-align: center;
+ color: white ;
+ font-family: 'Lato', serif;
+}
+
+/*Header*/
+.display{
+  display: block;
+  text-align: center;
+ color: #f13a65 ;
+ font-family: 'Lato', serif;
+}
+
+.displaythree{
+  display: block;
+  text-align: center;
+ color: white ;
+ font-family: 'Lato', serif;
+}
+
+.displaytwo{
+  display: block;
+  text-align: justify;
+  margin-left: 90px;
+  margin-right: 90px;
+ color: #474747;
+ font-family: 'Lato', serif;
+}
+
+.bearimage{
+width: 70%;
+margin-left: 90px;
+border-radius: 50%;
+}
+
+/*PAST WORK*/
+
+/*IMAGES*/
+.sectionone {
+ text-align: center;
+ padding: 10px 0px 20px 0px;
+}
+.sectiononeimage {
+   background-color: white;
+   background-image: url("https://image.flaticon.com/icons/svg/489/489939.svg");
+   background-repeat: no-repeat;
+   height: 100px;
+   margin-bottom: 25px;
+}
+.sectiontwo {
+ text-align: center;
+ padding: 10px 0px 20px 0px;
+}
+.sectiontwoimage {
+   background-color: white;
+   background-image: url("../images/pig.png");
+   background-repeat: no-repeat;
+   height: 100px;
+   margin-bottom: 25px;
+}
+.sectionthree {
+ text-align: center;
+ padding: 10px 0px 20px 0px;
+}
+.sectionthreeimage {
+   background-color: white;
+   background-image: url("../images/donation.png");
+   background-repeat: no-repeat;
+   height: 100px;
+   margin-bottom: 25px;
+}
+
+/* Style all font awesome icons */
+.halftwo .my-fa {
+   padding: 40px;
+   font-size: 35px;
+   /*width: 100px;*/
+   color: #f13a65;
+   text-align: center;
+   /*text-decoration: none;*/
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+   opacity: 0.7;
+}
+
+/*ENDINGIMAGE*/
+.testtwo{
+height: 400px;
+background-image: url('../images/gray1.png');
+background-repeat: no-repeat;
+background-size: contain;
+}
