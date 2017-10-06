@@ -1,7 +1,7 @@
 .test{
 margin-top: 20px;
 height: 900px;
-background-image: url('../images/1.png');
+background-image: url('../images/header.png');
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -42,9 +42,9 @@ background-size: cover;
 
 .displaytwo{
   display: block;
-  text-align: justify;
-  margin-left: 90px;
-  margin-right: 90px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
  color: #474747;
  font-family: 'Lato', serif;
 }
@@ -63,33 +63,39 @@ border-radius: 50%;
  padding: 10px 0px 20px 0px;
 }
 .sectiononeimage {
-   background-color: white;
-   background-image: url("https://image.flaticon.com/icons/svg/489/489939.svg");
+   background-color: #474747;
+   background-image: url("../images/s1.png");
+   background-position: center;
    background-repeat: no-repeat;
+   width: 100% ;
    height: 100px;
-   margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 .sectiontwo {
  text-align: center;
  padding: 10px 0px 20px 0px;
 }
 .sectiontwoimage {
-   background-color: white;
-   background-image: url("../images/pig.png");
+  background-color: #474747;
+   background-image: url("../images/s2.png");
+background-position: center;
    background-repeat: no-repeat;
+   width: 100% ;
    height: 100px;
-   margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 .sectionthree {
  text-align: center;
  padding: 10px 0px 20px 0px;
 }
 .sectionthreeimage {
-   background-color: white;
-   background-image: url("../images/donation.png");
+  background-color: #474747;
+   background-image: url("../images/s3.png");
+   background-position: center;
    background-repeat: no-repeat;
+   width: 100% ;
    height: 100px;
-   margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 /* Style all font awesome icons */
@@ -97,7 +103,7 @@ border-radius: 50%;
    padding: 40px;
    font-size: 35px;
    /*width: 100px;*/
-   color: #f13a65;
+   color: #474747;
    text-align: center;
    /*text-decoration: none;*/
 }
